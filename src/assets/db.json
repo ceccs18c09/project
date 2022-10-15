@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "id": 100,
+      "name": "Anjana",
+      "DOJ": "10-10-2020",
+      "salary": 35000,
+      "email": "anjana@gmail.com"
+    }
+  ],
+  "user": [
+    {
+      "name": "weredt",
+      "email": "edkafdsh@gmail.com",
+      "pass": "54767",
+      "id": 1
+    },
+    {
+      "name": "weredt",
+      "email": "edkafdsh@gmail.com",
+      "pass": "54767",
+      "id": 2
+    },
+    {
+      "name": "weredt",
+      "email": "edkafdsh@gmail.com",
+      "pass": "54767",
+      "id": 3
+    }
+  ]
+}
