@@ -22,7 +22,7 @@ export class RegisterComponent implements OnInit {
   } 
   signup(){
     this.http.post<any>('http://localhost:3000/user',this.signupForm.value).subscribe(res=>{
-      alert("data saved");
+     alert("data saved");
       // console.log(res)
     });
   }
