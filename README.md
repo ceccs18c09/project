@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+This project is based on spa authentication and to implement a register form together with its login form . The data from user is saved in a json file and hence verified after registration in order to login.
+
+Alerts at different points are specified to enhance the messages to recognise if the login matches any registrant.
